@@ -1,12 +1,11 @@
 ## Hi there 👋
 
+I'm a product designer, and these are my little passion projects <3 <br><br>
+
+🔭 Currently working on a travel app<br>
+🌱 Learning 3D modelling and Vibe Coding
+
 <!--
-**designvibess/designvibess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
